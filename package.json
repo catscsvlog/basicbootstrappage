@@ -1,0 +1,11 @@
+{
+  "name": "basicbootstrap",
+  "version": "1.0.0",
+  "description": "A Basic Bootstrap Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Akash Chaudhari",
+  "license": "MIT"
+}

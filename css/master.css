@@ -1,0 +1,60 @@
+.image-col {
+	width: 100%;
+	height: 200px;
+}
+.header{
+	padding: 1.2em;
+	font-family: 'Pacifico', sans-serif;
+}
+.header h2 {
+	text-align: center;
+}
+
+.page div h3 {
+	padding-top: 20px;
+	font-family: 'Lato', sans-serif;
+}
+
+h2.relation {
+	padding-top: 2em;
+} 
+h2.relation::first-letter{
+	font-family: 'Pacifico', sans-serif;
+}
+
+.col-sm img {
+	border-radius: 5px;
+}
+
+.col-sm p{
+	font-size: 1.3em;
+}
+.emphasis{
+	font-weight: bold;
+}
+
+.footer {
+	font-family: 'Pacifico', cursive;
+	color: grey;
+}
+
+.circleimage{
+	border-radius: 50%;
+}
+
+.blog-author{
+	font-family: 'Pacifico', sans-serif;
+}
+
+.writer {
+	padding-top: 2em;
+
+}
+h2.blog-author{
+	text-align: center;
+}
+img.circleimage{
+	display: block;
+	width: max-content;
+	margin: auto;
+}
